@@ -113,9 +113,5 @@ public class TabelaHash <Tipo> {
     public ListaVetor obertTodos() {
         return this.primaria;
     }
-
-    public boolean Hash(ArvoreBinaria arvore) {
-        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
-    }
     
 }
